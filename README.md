@@ -2,7 +2,7 @@
 This is the code implementation of Convergence analysis of deep residual networks (https://www.worldscientific.com/doi/10.1142/S021953052350029X).
 
 ## Prerequisites
-Our implementations are tested under following settings:
+Our implementation is tested under following settings:
     
 - CUDA version: V11.2
 - Python version: 3.10.4
