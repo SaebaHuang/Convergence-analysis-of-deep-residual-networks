@@ -1,5 +1,5 @@
 # Convergence analysis of deep residual networks
-This is the code implementations of Convergence analysis of deep residual networks (https://www.worldscientific.com/doi/10.1142/S021953052350029X).
+This is the code implementation of Convergence analysis of deep residual networks (https://www.worldscientific.com/doi/10.1142/S021953052350029X).
 
 ## Prerequisites
 Our implementations are tested under following settings:
